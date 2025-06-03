@@ -1,0 +1,78 @@
+{
+  "header": {
+    "name": "Jane Doe",
+    "email": "janedoe@email.com",
+    "phone": "+01 234 567 8900",
+    "linkedin": "https://www.linkedin.com/in/janedoe",
+    "portfolio": "https://janedoe-portfolio.com"
+  },
+  "summary": [
+    "Creative Media Producer with 8+ years of experience in media production, content creation, and project management. Skilled in visual storytelling, post-production editing, and multimedia design. Adept at handling end-to-end production workflows, coordinating with cross-functional teams, and delivering compelling visual content for diverse platforms.\n\nGraduated with honors in Media Handling from a prestigious university. Has a strong record of participation in competitive media festivals and film challenges. Actively involved in social impact through charity-based media projects and community outreach initiatives."
+  ],
+  "experience": [
+    {
+      "company": "VisionWave Media Studio",
+      "link": "https://visionwavemedia.fake",
+      "years": "2020 - Present",
+      "title": "Senior Media Producer",
+      "details": [
+        "Directed and edited over 100 multimedia campaigns for clients in nonprofit, commercial, and educational sectors",
+        "Managed production crews on-location and in-studio, ensuring timely and high-quality deliverables",
+        "Developed production pipelines that reduced post-production time by 30%",
+        "Supervised junior editors and interns, providing training in industry tools and techniques",
+        "Collaborated with clients to translate concepts into compelling visual narratives"
+      ]
+    },
+    {
+      "company": "Creative Pulse Collective",
+      "link": "https://creativepulse.fake",
+      "years": "2015 - 2020",
+      "title": "Media Editor & Content Strategist",
+      "details": [
+        "Produced short films, music videos, and promotional content for local artists and brands",
+        "Led social media content strategy and visual identity for client brands",
+        "Won 'Best Edited Short Film' in internal studio competition two years in a row",
+        "Acted as lead editor on award-nominated indie documentary"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Prestigious Institute of Media Arts",
+      "years": "2011 - 2015",
+      "degree": "Bachelor of Fine Arts in Media Handling",
+      "details": [
+        "Graduated with Distinction",
+        "Capstone project screened at regional student film festival"
+      ]
+    }
+  ],
+  "competitions": [
+    {
+      "organization": "National Media Arts Festival",
+      "title": "Short Film: 'Silent Beats'",
+      "years": "2019",
+      "role": "Finalist",
+      "link": "https://nmarts.fake/2019/janedoe-silentbeats"
+    },
+    {
+      "organization": "48-Hour Film Project",
+      "title": "Team 'FrameByFrame'",
+      "years": "2017",
+      "role": "Editor / Co-Director",
+      "link": "https://48hourfilm.fake/janedoe"
+    }
+  ],
+  "personnalprojects": [
+    {
+      "name": "Voices of Hope",
+      "description": "A documentary-style video series highlighting the impact of local charities working with underprivileged youth. Jane managed everything from filming to post-production on a volunteer basis.",
+      "link": "https://janedoe-portfolio.com/voices-of-hope"
+    },
+    {
+      "name": "Lights & Shadows",
+      "description": "A personal experimental short film exploring themes of identity and transformation using abstract lighting and soundscapes.",
+      "link": "https://janedoe-portfolio.com/lights-and-shadows"
+    }
+  ]
+}
